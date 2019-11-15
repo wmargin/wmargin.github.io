@@ -4,8 +4,8 @@ SEOTitle: 清风 Blog
 header-img: img/home.jpg
 email: w19222023@163.com
 description: ""
-keyword: "CodingWithAlice"
-url: "https://CodingWithAlice.github.io"          # your host, for absolute URL
+keyword: "wmargin"
+url: "https://wmargin.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/CodingWithAlice/CodingWithAlice.github.io.git" # you code repository
 
@@ -18,7 +18,7 @@ sidebar-avatar: /img/head.jpg      # use absolute URL, seeing it's used in both 
 
 # SNS settings
 RSS: false
-weibo_username:     清风vic
+weibo_username:     5763806445
 #zhihu_username:     coding-zen
 github_username:    wmargin
 #facebook_username:  baiying.qiu.7
