@@ -1,6 +1,6 @@
 ﻿# Site settings
-title: CodingWithAlice
-SEOTitle: CodingWithAlice Blog
+title: QingFeng
+SEOTitle: 清风 Blog
 header-img: img/home.jpg
 email: hao_ling@foxmail.com
 description: ""
@@ -11,16 +11,16 @@ github_repo: "https://github.com/CodingWithAlice/CodingWithAlice.github.io.git" 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "CodingWithAlice"
+sidebar-about-description: "QingFeng"
 sidebar-avatar: /img/head.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-#weibo_username:     phonetech
+weibo_username:     清风vic
 #zhihu_username:     coding-zen
-github_username:    CodingWithAlice
+github_username:    wmargin
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   a8e6daf1aa23
 #juejin_username:   5922402b0ce46300695c3c6a
