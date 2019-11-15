@@ -1,13 +1,13 @@
 ﻿# Site settings
-title:Qing
-SEOTitle: 清风 Blog
+title: CodingWithAlice
+SEOTitle: CodingWithAlice Blog
 header-img: img/home.jpg
-email: w19222023@163.com
-description: "反反复复"
-keyword: "wmargin"
-url: "https://wmargin.github.io"          # your host, for absolute URL
+email: hao_ling@foxmail.com
+description: ""
+keyword: "CodingWithAlice"
+url: "https://CodingWithAlice.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/wmargin/wmargin.github.io.git" # you code repository
+github_repo: "https://github.com/CodingWithAlice/CodingWithAlice.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
