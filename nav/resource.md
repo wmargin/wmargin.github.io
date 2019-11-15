@@ -1,6 +1,6 @@
 ﻿---
 layout: page
-title: resource
+title: 资源
 permalink: /resource/
 header-img: "img/home.jpg"
 ---
@@ -8,7 +8,7 @@ header-img: "img/home.jpg"
 
 
 
-- **我的Bilibli主页：[CodingWithAlice](<https://space.bilibili.com/14608003>)**
+- **Bilibli：[哔哩哔哩](<https://space.bilibili.com>)**
 
 
 
